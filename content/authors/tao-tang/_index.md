@@ -5,7 +5,9 @@ avatar_filename: avatar.png
 bio: Tao Tang's research interests include data science, graph learning, anomaly
   detection, and recommender systems.
 interests:
-  - "- Graph Learning   - Anomaly Detection   - Recommender Systems"
+  - Graph Learning
+  - Anomaly Detection
+  - Recommender Systems
 social:
   - display:
       header: false
