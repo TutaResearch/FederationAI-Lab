@@ -20,7 +20,7 @@ social:
     icon: envelope
   - display:
       header: false
-    link: https://federationai.netlify.app/people/
+    link: https://falih.me/
     icon_pack: fas
     icon: globe
 education:
