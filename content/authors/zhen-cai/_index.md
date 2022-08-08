@@ -10,11 +10,6 @@ interests:
 social:
   - display:
       header: false
-    link: https://scholar.google.com/citations?user=wqzYPTcAAAAJ&hl=en
-    icon_pack: ai
-    icon: google-scholar
-  - display:
-      header: false
     link: https://www.zhencai21.net/
     icon_pack: fas
     icon: globe
