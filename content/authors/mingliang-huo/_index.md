@@ -3,10 +3,9 @@ title: Mingliang Huo
 role: PhD Student
 avatar_filename: avatar.jpg
 interests:
-  - Graph Learning
-  - Lifelong Learning
-  - Deep learning
-  - Human-centric Cyber Security
+  - Graph learning
+  - City science
+  - Social computing
 social:
   - display:
       header: false
