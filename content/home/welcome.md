@@ -10,4 +10,7 @@ design:
   css_style: null
   css_class: null
 ---
-A short paragraph on what we do and how the AI Lab sits within Fed Uni. We will keep information about the current research groups in the about section. Will have a brief information about IISS (Institute of Innovation, Science and Sustainability). We can also mention about partners and Memberships
+Welcome to the AI Lab based on the MTH campus of Federation University Australia!
+
+\
+Our mission is to create innovation through conducting interdisciplinary, application-driven academic research. We are interested in a broad spectrum of cutting-edge research into Artificial Intelligence (AI), Data Science, Machine Learning, Systems Engineering, and relevant areas, from theoretical foundations, through design and implementation, to real-world applications, as well as education.
