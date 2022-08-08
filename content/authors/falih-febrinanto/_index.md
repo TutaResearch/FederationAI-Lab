@@ -1,7 +1,7 @@
 ---
 title: Falih Febrinanto
 role: PhD Student
-avatar_filename: falih-febrinanto.jpeg
+avatar_filename: falih-febrinanto.jpg
 social:
   - display:
       header: false
