@@ -16,6 +16,11 @@ social:
     icon: globe
   - display:
       header: false
+    link: https://scholar.google.com/citations?hl=en&user=3Kb2BeoAAAAJ
+    icon_pack: fab
+    icon: google-scholar
+  - display:
+      header: false
     link: mailto:tao.tang@ieee.org
     icon_pack: fas
     icon: envelope
