@@ -1,6 +1,7 @@
 ---
 title: Tao Tang
-avatar_filename: avatar.jpg
+role: PhD Student
+avatar_filename: tao-tang.jpg
 social:
   - display:
       header: false
