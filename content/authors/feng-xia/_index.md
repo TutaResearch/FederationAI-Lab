@@ -1,5 +1,6 @@
 ---
 title: Feng Xia
+role: Lab Director
 avatar_filename: avatar.jpg
 social:
   - display:
@@ -9,5 +10,5 @@ social:
     icon: google-scholar
 superuser: true
 user_groups:
-  - Researchers
+  - Supervisors
 ---
