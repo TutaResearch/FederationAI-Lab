@@ -3,10 +3,13 @@ title: Zhen Cai
 role: PhD Student
 avatar_filename: avatar.jpg
 interests:
-  - Graph Learning
-  - Lifelong Learning
+  - Statistics
+  - Business analysis
+  - Machine learning
   - Deep learning
-  - Human-centric Cyber Security
+  - Graph learning
+  - Anomaly detection
+  - Recommender systems
 social:
   - display:
       header: false
