@@ -10,14 +10,9 @@ interests:
 social:
   - display:
       header: false
-    link: https://scholar.google.com/citations?user=wqzYPTcAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=bks8l0YAAAAJ&hl=en&oi=sra
     icon_pack: ai
     icon: google-scholar
-  - display:
-      header: false
-    link: https://federationai.netlify.app/people/
-    icon_pack: fas
-    icon: globe
 education:
   courses: []
 superuser: false
