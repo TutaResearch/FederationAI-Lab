@@ -1,7 +1,7 @@
 ---
 title: Tao Tang
 role: PhD Student
-avatar_filename: tao-tang.jpg
+avatar_filename: tao-tang.png
 social:
   - display:
       header: false
