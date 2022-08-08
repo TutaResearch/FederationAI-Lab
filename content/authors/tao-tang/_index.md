@@ -13,11 +13,11 @@ social:
       header: false
     link: https://taotang.net/
     icon_pack: fab
-    icon: fa-arrow-up-right-from-square
+    icon: globe
   - display:
       header: false
     link: mailto:tao.tang@ieee.org
-    icon_pack: far
+    icon_pack: fas
     icon: envelope
 email: ""
 superuser: false
