@@ -8,4 +8,6 @@ social:
     icon_pack: fab
     icon: google-scholar
 superuser: true
+user_groups:
+  - Researchers
 ---
