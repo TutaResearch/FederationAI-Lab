@@ -17,7 +17,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.com/citations?hl=en&user=3Kb2BeoAAAAJ
-    icon_pack: fab
+    icon_pack: ai
     icon: google-scholar
   - display:
       header: false
