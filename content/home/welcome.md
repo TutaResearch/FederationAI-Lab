@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: fed_uni_black_rgb.jpg
 ---
 Welcome to the AI Lab based on the MTH campus of Federation University Australia!
 
