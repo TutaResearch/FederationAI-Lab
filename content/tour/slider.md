@@ -23,16 +23,16 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: this page could be the intro of lab
+      content: 'intro; intro; intro'
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: World-Class graph learning Lab
+      content: 'just intro, remember to change the images'
       align: right
       background:
         position: center
