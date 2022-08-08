@@ -5,7 +5,12 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: https://scholar.google.com/citations?user=HDFA2VYAAAAJ
+    link: https://www.xia.ai/
+    icon_pack: fas
+    icon: globe
+  - display:
+      header: false
+    link: https://scholar.google.com.au/citations?user=HDFA2VYAAAAJ&hl=en
     icon_pack: fab
     icon: google-scholar
 superuser: true
