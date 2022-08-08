@@ -3,10 +3,9 @@ title: Jing Ren
 role: PhD Student
 avatar_filename: avatar.jpg
 interests:
-  - Graph Learning
-  - Lifelong Learning
-  - Deep learning
-  - Human-centric Cyber Security
+  - Graph Neural Networks
+  - Network Science
+  - Anomaly Detection
 social:
   - display:
       header: false
