@@ -9,7 +9,7 @@ social:
       header: false
     link: http://www.shuo-yu.com/
     icon_pack: far
-    icon: site
+    icon: globe
 email: ""
 superuser: false
 user_groups:
