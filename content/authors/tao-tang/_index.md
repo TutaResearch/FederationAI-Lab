@@ -7,6 +7,9 @@ social:
     link: "https://scholar.google.com/citations?user=3Kb2BeoAAAAJ&hl=en "
     icon_pack: ai
     icon: google-scholar
+    link:"https://taotang.net/"
+    icon_pack: fab
+    icon: fa-arrow-up-right-from-square
 superuser: true
 user_groups:
   - Researchers
