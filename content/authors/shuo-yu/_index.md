@@ -2,23 +2,14 @@
 title: Shuo Yu
 role: Supervisors
 avatar_filename: avatar.png
-bio: Tao Tang's research interests include data science, graph learning, anomaly
-  detection, and recommender systems.
-interests:
-  - Graph Learning
-  - Anomaly Detection
-  - Recommender Systems
+bio: ""
+interests: []
 social:
-  - display:
-      header: false
-    link: https://taotang.net/
-    icon_pack: fab
-    icon: fa-arrow-up-right-from-square
   - display:
       header: false
     link: http://www.shuo-yu.com/
     icon_pack: far
-    icon: web
+    icon: website
 email: ""
 superuser: false
 user_groups:
