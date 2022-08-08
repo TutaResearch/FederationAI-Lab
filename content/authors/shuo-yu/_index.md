@@ -8,7 +8,7 @@ social:
   - display:
       header: false
     link: http://www.shuo-yu.com/
-    icon_pack: far
+    icon_pack: fas
     icon: globe
 email: ""
 superuser: false
