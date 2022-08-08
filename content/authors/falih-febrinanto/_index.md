@@ -15,7 +15,7 @@ social:
     icon: google-scholar
   - display:
       header: false
-    link: mailto:falih.febrinanto@federation.edu.au
+    link: mailto:f.febrinanto@federation.edu.au
     icon_pack: fas
     icon: envelope
   - display:
