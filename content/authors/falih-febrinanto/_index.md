@@ -9,4 +9,6 @@ social:
     icon_pack: ai
     icon: google-scholar
 superuser: false
+user_groups:
+  - Researchers
 ---
