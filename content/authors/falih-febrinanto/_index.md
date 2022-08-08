@@ -10,6 +10,11 @@ interests:
 social:
   - display:
       header: false
+    link: https://www.falih.me/
+    icon_pack: fas
+    icon: globe
+  - display:
+      header: false
     link: https://scholar.google.com/citations?user=wqzYPTcAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
@@ -18,11 +23,6 @@ social:
     link: mailto:f.febrinanto@federation.edu.au
     icon_pack: fas
     icon: envelope
-  - display:
-      header: false
-    link: https://www.falih.me/
-    icon_pack: fas
-    icon: globe
 education:
   courses:
     - course: PhD in Information Technology
