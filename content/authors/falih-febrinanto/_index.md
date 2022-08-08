@@ -20,9 +20,9 @@ social:
     icon: envelope
   - display:
       header: false
-    link: https://github.com/falihgoz
-    icon_pack: fab
-    icon: github
+    link: https://federationai.netlify.app/people/
+    icon_pack: fas
+    icon: globe
 education:
   courses:
     - course: PhD in Information Technology
