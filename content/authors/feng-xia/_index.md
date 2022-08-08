@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.com.au/citations?user=HDFA2VYAAAAJ&hl=en
-    icon_pack: fab
+    icon_pack: ai
     icon: google-scholar
 superuser: true
 user_groups:
