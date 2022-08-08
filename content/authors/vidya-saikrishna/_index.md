@@ -10,5 +10,5 @@ social:
     icon: google-scholar
 superuser: true
 user_groups:
-  - Researchers
+  - Supervisors
 ---
