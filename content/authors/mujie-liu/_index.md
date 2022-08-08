@@ -2,15 +2,11 @@
 title: Mujie Liu
 role: PhD Student
 avatar_filename: avatar.jpg
-interests:
-  - Graph Learning
-  - Lifelong Learning
-  - Deep learning
-  - Human-centric Cyber Security
+interests: []
 social:
   - display:
       header: false
-    link: https://www.zhencai21.net/
+    link: https://federationai.netlify.app
     icon_pack: fas
     icon: globe
 education:
