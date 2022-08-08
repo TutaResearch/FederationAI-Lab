@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: https://taotang.net/
+    link: https://www.taotang.net/
     icon_pack: fas
     icon: globe
   - display:
