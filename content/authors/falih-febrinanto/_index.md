@@ -20,7 +20,7 @@ social:
     icon: envelope
   - display:
       header: false
-    link: https://falih.me/
+    link: https://www.falih.me/
     icon_pack: fas
     icon: globe
 education:
