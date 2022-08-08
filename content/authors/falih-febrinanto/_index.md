@@ -36,6 +36,6 @@ education:
       year: 2018
 superuser: true
 user_groups:
-  - Researchers
+  - Members
 ---
 Falih Gozi Febrinanto received the Bachelor of Computer Science (S.Kom), from the University of Brawijaya, Malang, Indonesia, in 2018 and the Master of Technology (M.Tech) from Federation University Australia, Ballarat, Australia, in 2021. He is currently PhD in Information Technology student at Federation University Australia, Ballarat, Australia, and CSIRO’s Data61, Australia. His research interest includes Graph Learning, Lifelong Learning, Deep learning, and Human-centric Cyber Security.
