@@ -1,6 +1,6 @@
 ---
 title: Shuo Yu
-role: Supervisors
+role: Supervisor
 avatar_filename: avatar.png
 bio: ""
 interests: []
