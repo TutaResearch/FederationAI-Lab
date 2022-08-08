@@ -8,7 +8,7 @@ social:
     link: https://scholar.google.com/citations?user=wqzYPTcAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 ---
