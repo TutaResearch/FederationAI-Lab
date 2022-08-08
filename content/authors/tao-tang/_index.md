@@ -1,6 +1,6 @@
 ---
 title: Tao Tang
-role: PhD Student (2021.07)
+role: PhD Student
 avatar_filename: avatar.png
 bio: Tao Tang's research interests include data science, graph learning, anomaly
   detection, and recommender systems.
