@@ -12,7 +12,7 @@ social:
   - display:
       header: false
     link: https://taotang.net/
-    icon_pack: fab
+    icon_pack: fas
     icon: globe
   - display:
       header: false
