@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: welcome to our lab.
-      content: Take a look at what we're working on...
+    - title: Welcome to Federation AI lab
+      content: We stand together!
       align: center
       background:
         position: right
@@ -25,7 +25,7 @@ content:
         media: coders.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
+      align: center
       background:
         position: center
         color: '#555'
