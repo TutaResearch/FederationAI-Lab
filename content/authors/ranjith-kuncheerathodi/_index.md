@@ -2,11 +2,10 @@
 title: Ranjith Kuncheerathodi
 role: Intern
 avatar_filename: avatar.jpg
+bio: ""
 interests:
   - Graph Learning
-  - Lifelong Learning
-  - Deep learning
-  - Human-centric Cyber Security
+  - Knowledge Graph
 social:
   - display:
       header: false
