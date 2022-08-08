@@ -1,7 +1,7 @@
 ---
 title: Zhen Cai
 role: PhD Student
-avatar_filename: zhen-cai.jpg
+avatar_filename: avatar.jpg
 interests:
   - Graph Learning
   - Lifelong Learning
