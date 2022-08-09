@@ -1,5 +1,5 @@
 ---
-title: Mingliang Huo
+title: Mingliang Hou
 role: Supervisor
 avatar_filename: avatar.jpg
 interests:
