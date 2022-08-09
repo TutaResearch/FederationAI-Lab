@@ -1,6 +1,6 @@
 ---
 title: Mingliang Huo
-role: PhD Student
+role: Supervisors
 avatar_filename: avatar.jpg
 interests:
   - Graph learning
