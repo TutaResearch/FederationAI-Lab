@@ -8,6 +8,11 @@ social:
     link: https://federation.edu.au/
     icon_pack: fab
     icon: google-scholar
+  - display:
+      header: false
+    link: https://vidyasaikrishna.wixsite.com/my-site
+    icon_pack: fas
+    icon: globe
 superuser: true
 user_groups:
   - Supervisors
