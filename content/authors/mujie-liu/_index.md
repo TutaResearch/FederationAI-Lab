@@ -2,7 +2,9 @@
 title: Mujie Liu
 role: PhD Student
 avatar_filename: avatar.jpg
-interests: []
+interests:
+  - Real-time anomaly detection
+  - Graph learning
 social:
   - display:
       header: false
