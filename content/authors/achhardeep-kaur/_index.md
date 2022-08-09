@@ -1,7 +1,7 @@
 ---
 title: Achhardeep Kaur
 role: PhD Student
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 interests:
   - Machine learning
   - Deep learning
