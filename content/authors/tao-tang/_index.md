@@ -24,6 +24,14 @@ social:
     link: mailto:tao.tang@ieee.org
     icon_pack: fas
     icon: envelope
+education:
+  courses:
+    - course: PhD in Information Technology
+      institution: Federation University Australia
+      year: ""
+    - course: Bachelor of Engineering
+      institution: Chengdu College, University of Electronic Science and Technology of China
+      year: 2019
 email: ""
 superuser: false
 user_groups:
