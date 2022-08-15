@@ -7,7 +7,7 @@ title: Welcome
 design:
   columns: "1"
   css_style: null
-  css_class: null
+  css_class: banner-reset
   background:
     image: null
     image_darken: 0.1
