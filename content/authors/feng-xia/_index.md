@@ -13,7 +13,7 @@ social:
     link: https://scholar.google.com.au/citations?user=HDFA2VYAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
-superuser: true
+superuser: false
 user_groups:
   - Supervisors
 ---
