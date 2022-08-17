@@ -1,8 +1,7 @@
 ---
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
-authors:
-  - Tao_Tang
+date: 2022-08-17T04:19:57.135Z
+authors: []
 image:
   focal_point: SMART
 ---
