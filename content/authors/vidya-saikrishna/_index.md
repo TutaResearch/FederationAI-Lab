@@ -13,7 +13,7 @@ social:
     link: https://vidyasaikrishna.wixsite.com/my-site
     icon_pack: fas
     icon: globe
-superuser: true
+superuser: false
 user_groups:
   - Supervisors
 ---
