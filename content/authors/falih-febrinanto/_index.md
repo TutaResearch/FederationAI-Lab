@@ -34,7 +34,7 @@ education:
     - course: Bachelor of Computer Science
       institution: Brawijaya University
       year: 2018
-superuser: true
+superuser: false
 user_groups:
   - Members
 ---
